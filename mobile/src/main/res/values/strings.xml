@@ -1,18 +1,18 @@
 <resources>
     <string name="app_name">MobvoiApiDemo</string>
-    <string name="title_1">"数据传输"</string>
-    <string name="title_2">"传感器"</string>
-    <string name="title_3">"地理位置"</string>
-    <string name="title_4">"健康数据"</string>
-    <string name="title_5">"天气"</string>
-    <string name="title_6">"手势"</string>
-    <string name="title_7">"语音识别"</string>
-    <string name="title_8">"语音合成"</string>
-    <string name="title_9">"语义"</string>
-    <string name="title_10">"搜索"</string>
-    <string name="title_11">"快捷卡片"</string>
-    <string name="title_12">"挠挠"</string>
-    <string name="title_13">"UI库demo"</string>
+    <string name="title_1">"Data Transfer Demo"</string>
+    <string name="title_2">"Sensors Demo"</string>
+    <string name="title_3">"Location Demo"</string>
+    <string name="title_4">"Steps Demo"</string>
+    <string name="title_5">"Weather Demo"</string>
+    <string name="title_6">"Gesture Demo"</string>
+    <string name="title_7">"Voice Input Demo"</string>
+    <string name="title_8">"Text2Voice"</string>
+    <string name="title_9">"Semantic"</string>
+    <string name="title_10">"Search"</string>
+    <string name="title_11">"Card Activity"</string>
+    <string name="title_12">"NaoNao"</string>
+    <string name="title_13">"UI Demo"</string>
     <string name="details">up to date.</string>
     <string name="data">Data Transfer</string>
     <!-- data layer -->
@@ -44,7 +44,7 @@
     <!-- StepActivity -->
     <string name="title_activity_step">Steps</string>
     <string name="start_step">Start Step Activity</string>
-    <string name="step_text">当前步数:</string>
+    <string name="step_text">Steps:</string>
     <!-- WeatherActivity -->
     <string name="title_activity_weather">Weather</string>
     <string name="start_weather">Start Weather Activity</string>
@@ -53,12 +53,12 @@
     <string name="title_activity_gesture">Gesture</string>
     <string name="start_gesture">Start Gesture Activity</string>
     <string name="gesture_text">Gesture</string>
-    <string name="gesture_now">当前手势:</string>
+    <string name="gesture_now">Gesture:</string>
     <!-- VoiceInputActivity -->
     <string name="title_activity_voice_input">VoiceInput</string>
     <string name="start_voice">Start VoiceInput Activity</string>
-    <string name="voice_text">语音识别</string>
-    <string name="voice_now">当前语音:</string>
+    <string name="voice_text">Click on the "start" button on the watch</string>
+    <string name="voice_now">Spoken:</string>
     <!-- Text2VoiceActivity -->
     <string name="title_activity_text2_voice">Text2Voice</string>
     <string name="start_text2voice">Play on Wear</string>

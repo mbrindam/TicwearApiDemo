@@ -54,7 +54,7 @@ public class VoiceInputActivity extends SpeechRecognitionApi.SpeechRecogActivity
     @Override
     public void onRecognitionFailed() {
         mVoiceTv.setText("onRecognitionFailed");
-        mText = "识别失败";
+        mText = "Recognition failed";
     }
 
     @Override
